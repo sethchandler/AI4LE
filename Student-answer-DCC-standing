@@ -1,0 +1,81 @@
+--
+
+**MEMORANDUM**
+
+**TO:** Hon. Judge  
+**FROM:** Law Clerk  
+**DATE:** [Date]  
+**RE:** _NetChoice v. Attorney General_ â€” Motion to Dismiss
+
+---
+
+### I. Introduction
+
+This case concerns Californiaâ€™s â€œMinorâ€™s Online Safety Actâ€ (MOSA), which requires websites to verify user ages before allowing access to material considered harmful to minors. NetChoice, a trade group of internet businesses, challenges the law before it takes effect, arguing that it violates the Dormant Commerce Clause. The California Attorney General has moved to dismiss.
+
+There are three issues: (1) whether there is state action; (2) whether NetChoice has standing; and (3) whether MOSA violates the Dormant Commerce Clause.
+
+---
+
+### II. State Action
+
+**Issue:** Does MOSA involve state action?
+
+**Rule:** Under the Fourteenth Amendment, there must be state action before constitutional claims can proceed (_Civil Rights Cases_, 1883).
+
+**Application:** MOSA is a law passed by the California legislature and will be enforced by the state Attorney General. That is clearly government conduct. The websites are private, but they are being regulated by a state official.
+
+**Conclusion:** There is state action.
+
+---
+
+### III. Standing
+
+**Issue:** Does NetChoice have standing to challenge MOSA on behalf of its members?
+
+**Rule:** A plaintiff must show injury in fact, causation, and redressability (_Lujan v. Defenders of Wildlife_). Associations can sue for members if the issue is germane to their purpose and doesnâ€™t require every member to join (_Hunt v. Washington State Apple_).
+
+**Application:**  
+NetChoice says its members will be hurt because they must pay high costs for age-verification systems or stop allowing California users. The Ohio bloggerâ€™s $50,000 cost is an economic injury. The French forum says it will block all U.S. users, which also counts as harm.
+
+The Attorney General says these harms are not real because the law hasnâ€™t started yet and no one has been fined. The state also says the members could just block California users instead of shutting down.
+
+NetChoice probably meets the test because the Attorney General said he will enforce the law â€œon day one,â€ so the threat is not speculative. The injuries come from the law and could be prevented by an injunction.
+
+**Conclusion:** NetChoice likely has standing.
+
+---
+
+### IV. Dormant Commerce Clause
+
+**Issue:** Does MOSA violate the Dormant Commerce Clause?
+
+**Rule:** States cannot make laws that directly regulate interstate commerce or that put too heavy a burden on it (_Healy v. Beer Institute_; _Pike v. Bruce Church_).
+
+#### A. Extraterritorial Regulation
+
+NetChoice argues that MOSA tries to control conduct outside California because it applies to â€œany website accessible in California.â€ Websites like the Ohio bloggerâ€™s would have to age-verify all users, even those in other states, since itâ€™s hard to tell who is in California. That means California is extending its laws to other states.
+
+The Attorney General argues that the law only applies to sites that choose to make themselves available in California and does not control what they do elsewhere.
+
+Because the law affects people and companies in other states, there is a good argument it regulates beyond Californiaâ€™s borders.
+
+**Conclusion:** The statute probably reaches too far and could be unconstitutional on this ground.
+
+#### B. Pike Balancing
+
+Under _Pike v. Bruce Church_, a law that applies to both in-state and out-of-state businesses will be struck down if the burdens on interstate commerce clearly outweigh the local benefits.
+
+The stateâ€™s interest is protecting children from harmful material online, which is a legitimate local purpose. But NetChoice says the cost of compliance is very high and could cause websites to shut down or block California users. It also says that if every state passed its own law like this, it would be too hard for small websites to operate nationwide.
+
+Balancing these, the burden on business seems high compared to the benefit, especially since websites already have filters and parental controls.
+
+**Conclusion:** The law likely violates the Dormant Commerce Clause because it puts too heavy a burden on interstate commerce.
+
+---
+
+### V. Conclusion
+
+There is state action because MOSA is a government law. NetChoice probably has standing because its members face real economic harms. On the merits, MOSA likely violates the Dormant Commerce Clause both because it controls conduct outside California and because it imposes excessive burdens compared to its benefits. The motion to dismiss should be denied.
+
+---
